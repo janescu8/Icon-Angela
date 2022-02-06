@@ -1,0 +1,23 @@
+body{
+    font-family: 'Trebuchet MS';
+}
+#features{
+    padding: 7% 15%;
+}
+.feature-box{
+    text-align: center;
+    padding: 5%;
+}
+.feature-box i{
+    color: #ef8172;
+    margin-bottom: 15px;
+}
+.feature-box i:hover{
+    color:#ff4c48;
+}
+h3{
+    font-weight: bolder;
+}
+p{
+    color: #8f8f8f;
+}
